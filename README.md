@@ -20,9 +20,11 @@ We will evaluate the Real Estate market variation by zip code.
 our analysis is going back to 2000 or maybe 1996 (12 years before the subprime crisis 2008)
 
 Goals:
-Determine the cities/zip codes with greatest and lowest market price variation. After and before subprime crisis.
+Determine the cities/zip codes with greatest and lowest market price variation. 
+After and before subprime crisis.
 Predict the real estate market prices for 2 specific zip code - up to 2 years from now.
 Answer the question: “Are we facing another “bubble”? 
+
 Charts we plan to use:
 (bar chart): top 10 zip codes with greatest market price variation,
              top 10 zip codes with lowest market price variation.
