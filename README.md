@@ -1,6 +1,8 @@
 # Project_1_DD-BM-PS-RP
 # Project 1 - (Aug-Feb Data Science) Mon-Wed
 
+Project Title: Real Estate Market Price Analysis
+
 Project Title: Real Estate price variation – are we facing a new bubble? Name of Group: Insane Data Prophets Team Members: Dan Dragone, Billy Martinez, Pavana Srinivasa, Roma Patel
 
 Project Description/Outline: Our group is looking to analyze the real estate market variation over time, analyze the increase/decrease in comparison with the inflation rates and a closer analysis comparing the years before the last crisis (subprime crisis 2007-2010) and the market price variation since then. Ideally, we will have the ability to answer if we are facing a new bubble.
